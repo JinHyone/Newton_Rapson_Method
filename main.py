@@ -15,7 +15,7 @@ fp_x = sp.diff(f_x, x)
 
 print(fp_x)
 
-x0 = -10
+x0 = 10
 epsilon = 1e-6
 
 x_tmp = x0
